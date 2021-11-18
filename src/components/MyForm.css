@@ -1,0 +1,27 @@
+body {
+  background-image: url("./image.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 0 auto;
+  max-width: 400px;
+  padding: 60px 50px;
+  line-height: 50px;
+  line-height: 20px;
+}
+h1 {
+  color: #075ee0bb;
+  font-family: sans-serif;
+  margin: 30px;
+  font-size: 40px;
+  font-weight: 50px;
+  line-height: 10px;
+  padding: 5px;
+  text-align: center;
+}
